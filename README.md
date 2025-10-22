@@ -8,7 +8,7 @@
 
 🌱 I'm currently learning **AI, Embedded Systems, Robotics, Autonomous Driving**  
 📂 All of my projects are available at [https://github.com/highptest1-36?tab=repositories](https://github.com/highptest1-36?tab=repositories)  
-📧 How to reach me **caophuc@example.com**
+📧 How to reach me **caophucai@gmail.com**
 
 ---
 
